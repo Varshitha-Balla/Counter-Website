@@ -1,0 +1,20 @@
+#myH1{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+#div{
+    text-align: center;
+}
+.btns{
+    font-size:2em;
+    border-radius: 10px;
+    background-color: rgb(180, 104, 197);
+    color: aliceblue;
+    padding:10px;
+    cursor: pointer;
+    transition: background-color 0.25s ;
+}
+.btns:hover{
+    background-color:rgb(169, 29, 216);
+}
